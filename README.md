@@ -14,10 +14,10 @@
             <h1>Hello !!!</h1>
             <br>
              <p><strong>I love tecnology </strong> and learn every day more about this beautifull field. 
-               I especialized in UI/UX, Html, Css and JavaScript. 
+               I especialized in UI/UX, Html, Css and JavaScript. <br>
                but also know a lot of Adobe, React, Angular, Fluter and other software programs. 
                <br> 
-               I live in Paris and once I was a professional athlete with good results. 
+               I live in Paris and once I was a professional athlete with good results.<br>
                <img src = "podiumcanada.jpeg"><br><br>
                After my athlete carrier I became a professional culinary chef. I worked in many countries
                for the best organizations in the world and Michelin Star restaurants. I have a chef website
