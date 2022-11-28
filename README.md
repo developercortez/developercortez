@@ -33,12 +33,11 @@
             <video autoplay muted loop src="codescreen.mp4">
             </video>
          </header>
-
+ </div>
          <footer>
             <p>Let's stay in touch:</p>
             <p><a href="mailto:jose@chefcortez.com" target="_blank">hello@developercortez.com</a></p>
          </footer>
     
-         
-     </div>
+   
 </body>  
