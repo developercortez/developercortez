@@ -18,7 +18,7 @@
                but also know a lot of Adobe, React, Angular, Fluter and other software programs. 
                <br> 
                I live in Paris and once I was a professional athlete with good results. 
-               <img src = "podiumcanada.jpeg"><br><hr>
+               <img src = "podiumcanada.jpeg"><br><br>
                After my athlete carrier I became a professional culinary chef. I worked in many countries
                for the best organizations in the world and Michelin Star restaurants. I have a chef website
                where I post videos and photos of easy recipes that anybody can cook at home:
